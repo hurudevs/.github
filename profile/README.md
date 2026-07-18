@@ -28,7 +28,7 @@
     <span> · </span>
     <a href="https://huru.hurudevs.workers.dev/services">Solutions</a>
     <span> · </span>
-    <a href="https://huru.hurudevs.workers.dev/contact">Get in Touch</a>
+    <a href="https://huru.hurudevs.workers.dev/contact-us">Get in Touch</a>
   </p>
 
   <!-- Badges -->
