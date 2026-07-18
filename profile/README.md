@@ -26,7 +26,7 @@
     <br />
     <a href="https://huru.hurudevs.workers.dev/works">Our Portfolio</a>
     <span> · </span>
-    <a href="https://huru.hurudevs.workers.dev/solutions">Solutions</a>
+    <a href="https://huru.hurudevs.workers.dev/services">Solutions</a>
     <span> · </span>
     <a href="https://huru.hurudevs.workers.dev/contact">Get in Touch</a>
   </p>
