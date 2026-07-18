@@ -95,7 +95,7 @@ Our digital interfaces lean heavily into high-end aesthetics, celebrating seamle
 Whether you need a bespoke high-fidelity web application, a complete systems overhaul, or a sleek design framework, we can bring your vision to life.
 
 *   **Request a consultation:** [Explore Our Plans & Industry Solutions](https://huru.hurudevs.workers.dev/)
-*   **Email:** [hello@hurudevs.tech](mailto:hurudevs@gmail.com)
+*   **Email:** [Click to send📩](mailto:hurudevs@gmail.com)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hurudevs-Tech/.github/main/assets/Brand2.png" width="120" alt="Huru Devs Mark" />
